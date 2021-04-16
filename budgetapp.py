@@ -79,5 +79,5 @@ print ("3. check balance")
 print ("4. transfer")
 userInput = int(input("Enter an option to continue: "))
 userInput = userInput - 1
-taskAction = c.userInput[task]()
+taskAction = c.task[userInput]()
 
