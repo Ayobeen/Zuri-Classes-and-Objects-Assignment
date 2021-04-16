@@ -1,6 +1,6 @@
 #Zuri-Budget-App
 
-A Budget class that instantiate objects based on different budget categories such as food, clothing, 
+An object oriented simple Budget app that instantiate objects based on different budget categories such as food, clothing, 
 and entertainment. These objects allow
 1.  Depositing funds to each of the categories
 2.  Withdrawing funds from each category
